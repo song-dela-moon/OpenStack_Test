@@ -1,0 +1,28 @@
+# OpenStack Kolla-Ansible Deployments
+
+# Credentials & Passwords
+passwords.yml
+admin-openrc.sh
+.admin_password
+*rc.sh
+credentials.sh
+
+# Python Virtual Environments
+venv/
+.venv/
+kolla-venv/
+__pycache__/
+*.pyc
+
+# Ansible overrides or logs
+*.log
+ansible.log
+*.retry
+/manual/failed.txt
+
+# Editor / OS files
+.DS_Store
+.vscode/
+*.swp
+*.bak
+*~
