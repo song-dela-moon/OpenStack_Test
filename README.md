@@ -1,5 +1,6 @@
-# OpenStack 2024.2 (Dalmatian) 자동화 배포 및 실습 환경 구축
+# OpenStack 자동화 배포 및 실습 환경 구축
 이 저장소는 **Kolla-Ansible** 을 활용하여 Ubuntu 22.04 LTS 환경에서 OpenStack 2024.2 (Dalmatian) 버전을 효율적으로 구축하고, Multi-tenant 실습 환경을 자동화하는 스크립트를 포함하고 있습니다.
+<img width="2520" height="1113" alt="image" src="https://github.com/user-attachments/assets/a30f2f17-52ee-4666-8a89-934be7730e0c" />
 
 ## 🚀 주요 특징
 - **자동화된 AIO 배포**: 한 번의 실행으로 Control Node 및 OpenStack 핵심 서비스 구축.
